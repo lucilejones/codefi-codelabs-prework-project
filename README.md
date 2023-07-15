@@ -1,1 +1,1 @@
-# codefi-codelabs-prework-project
+# A practice web app that creates a fun Mad Lib
